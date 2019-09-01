@@ -10,5 +10,11 @@
         "name": "Crypto Delegate",
         "description": "CryptoDelegate delegation service is the best alternative to running your own node. The easy way to grow your Tezos stake is to Delegate your XTZ Tezzies.",
         "website": "https://www.cryptodelegate.com"
+    }, 
+ {
+        "id": "tz1Vyuu4EJ5Nym4JcrfRLnp3hpaq1DSEp1Ke",
+        "name": "POS Bakerz",
+        "description": "POS Bakerz is a staking company operating secure and efficient nodes for different Proof-of-Stake cryptocurrencies such as Cosmos Network, Tezos, IRISnet, Terra Money and others",
+        "website": "https://posbakerz.com/"
     }
 ]
